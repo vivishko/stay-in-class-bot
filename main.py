@@ -4,7 +4,7 @@ import requests
 import json
 import random
 
-TOKEN = 'ODE1MTgzNTA5MTk0ODAxMTYz.YDoszQ.SV7zfzQtt_oST5Z9FNaA7-vACiY'
+TOKEN = '####'
 client = discord.Client()
 
 
